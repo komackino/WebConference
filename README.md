@@ -1,2 +1,2 @@
 # WebConference
-Tutorial do livro "Introdução ao Desenvolvimento Moderno para a Web"
+Aplicação web para gerir uma Conferência
